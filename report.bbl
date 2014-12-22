@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{elia:2014}
+Elia~Group Belgium.
+\newblock {\em Elia installs metering tools on its border lines to optimise
+  import capacities}, 2014.
+
+\bibitem{cao2012optimized}
+Yijia Cao, Shengwei Tang, Canbing Li, Peng Zhang, Yi~Tan, Zhikun Zhang, and
+  Junxiong Li.
+\newblock {An optimized EV charging model considering TOU price and SOC curve}.
+\newblock {\em Smart Grid, IEEE Transactions on}, 3(1):388--393, 2012.
+
+\bibitem{usoutage2004}
+U.S.-Canada Power System Outage~Task Force.
+\newblock {Final Report on the August 14, 2003 Blackout in the United States
+  and Canada: Causes and Recommendations}.
+\newblock Technical report, U.S. Department of Energy, 2004.
+
+\bibitem{g2001understanding}
+H.N. G, N.G. Hingorani, and L.~Gyugyi.
+\newblock {\em Understanding FACTS: Concepts and Technology of Flexible AC
+  Transmission Systems}.
+\newblock Wiley-IEEE Press, December 1999.
+
+\bibitem{Jumbe200461}
+Charles~B.L Jumbe.
+\newblock {Cointegration and causality between electricity consumption and GDP:
+  empirical evidence from Malawi}.
+\newblock {\em Energy Economics}, 26(1):61 -- 68, 2004.
+
+\bibitem{pmudeploy2012}
+U.S.~Department of~Energy.
+\newblock {\em PMU Deployment in the Carolinas with Communication System
+  Modernization}, June 2012.
+
+\bibitem{abbhvdc2014}
+ABB~Grid Systems.
+\newblock {\em North-East Agra - a \pm800kV transmission superhighway}, October
+  2014.
+
+\bibitem{pmusitu2010}
+Overbye Thomas, Sauer Pete, DeMarco Chris, Lesieutre Bernie, and
+  Venkatasubramaniam Mani.
+\newblock {Using PMU Data to Increase Situational Awareness}.
+\newblock Technical report, Power Systems Engineering Research Center,
+  Septemeber 2010.
+
+\end{thebibliography}
